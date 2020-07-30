@@ -1,0 +1,27 @@
+html {
+  font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto,
+    sans-serif;
+  text-align: center;
+  margin-top: 150px;
+}
+
+body {
+  
+  font-family: palatino Georgia, 'Times New Roman', Times, serif;
+  font-size: 27px;
+  font-style: bold;
+  width: 100%;
+    height: 100%;
+    margin: 0px; /* Space from this element (entire page) and others*/
+    padding: 0px; /*space from content and border*/
+    border:  solid rgb(245, 245, 245);
+    border-width: thin;
+    overflow:hidden;
+    display:block;
+    box-sizing: border-box;
+    color:  #e8ff4f;
+
+
+}
+
+
